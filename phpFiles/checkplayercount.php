@@ -25,6 +25,6 @@
 	}
 	else
 	{
-		echo '1 : player has ' .$min_players. ' or more in table';
+		echo '1 : player has ' .$min_players. ' or more in table. table will not be initialized.';
 	}
 ?>
