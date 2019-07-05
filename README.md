@@ -9,7 +9,7 @@ It is in part 4 of the tutorial. It is possible I might went overboard and it wa
 This was done in Unity 2018.1.3.1f1. Board to Bits was in Unity 2017, so my guess that version change caused problems, maybe.
 The problem really in the PHP file, so probably not. ¯\_(ツ)_/¯
 
-I added a high score table thing as a small exercise for myself. If you wanted to do that but got stuck, you can take a look on how I approached it.
+I made a small leaderboard / high scores thing as a small exercise for myself. If you wanted to do that but got stuck, you can take a look on how I approached it. It only does the top 5, but it is a good start.
 There are a lot of questions I have about PHP because this is my first time using PHP, so I'm not familiar with certain conventions and nuances of the language.
 I also added a feature where if there aren't at least 5 people in the table, it will insert 5 "random" people into the table.
 I did change some things around in the C#/Unity side, so you might need to poke around if you are looking at it. 
